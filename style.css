@@ -13,7 +13,7 @@ body {
 }
 
 .game {
-  max-width: 100px;
+  max-width: 250px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -38,9 +38,9 @@ body {
   border-radius: 10px;
   backface-visibility: hidden;
   background-position: center;
-  background-size: 70% 70%;
+  background-size: 50% 50%;
   background-repeat: no-repeat;
-  background-color: #ffffff;
+  background-color: #3aa6f8;
 }
 
 .card .back {
